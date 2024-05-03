@@ -20,5 +20,5 @@
 ### **5. Class Materials**
 | # | Sessions | Keywords |
 |:--:|:--:|:--:|
-|1|Markdown-language👫|font color ect. [Syntax](https://www.markdownguide.org/basic-syntax/)|
-|2|Generating code cells💾|code-lines, run(execute)|
+|1|Markdown-language|font color ect. [Syntax](https://www.markdownguide.org/basic-syntax/)|
+|2|Generating code cells|code-lines, run(execute)|
